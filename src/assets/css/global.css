@@ -1,0 +1,21 @@
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.btn {
+  font-size: 24px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background-color: inherit;
+  transition: color .25s ease;
+  color: #000000;
+  text-decoration: none;
+}
+
+input {
+  border-radius: 5px;
+  border: 1px solid #6e6e6e
+}
